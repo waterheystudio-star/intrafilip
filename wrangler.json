@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "intrafilip",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "1714696a-28d6-4cef-9f03-3b0b66249a74",
+			"database_name": "IntraFilip"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
